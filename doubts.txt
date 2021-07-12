@@ -1,0 +1,1 @@
+1. Why there are many classes with the same name, except with suffixes such as L, W, Ex, ... (RegisterClassEx, RegisterClassW)?

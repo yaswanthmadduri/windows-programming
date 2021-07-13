@@ -1,1 +1,4 @@
-1. Why there are many classes with the same name, except with suffixes such as L, W, Ex, ... (RegisterClassEx, RegisterClassW)?
+1.  Why there are many classes with the same name, except with suffixes such as L, W, Ex, ... (RegisterClassEx, RegisterClassW)?
+2.  In Handler HANDLE OpenProcess(DWORD dwDesiredAccess,BOOL  bInheritHandle,DWORD dwProcessId),
+    bInheritHandle should be set false. If it is set true, then, it is said to inherit the process. From where does it inherit and what does it inherit?
+3. 

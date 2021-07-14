@@ -1,0 +1,4 @@
+﻿  CreateProcess.cpp
+C:\Users\CSCC Labs\source\repos\CreateProcess\CreateProcess\CreateProcess.cpp(10,9): warning C4101: 'hThread': unreferenced local variable
+C:\Users\CSCC Labs\source\repos\CreateProcess\CreateProcess\CreateProcess.cpp(9,9): warning C4101: 'hProcess': unreferenced local variable
+  CreateProcess.vcxproj -> C:\Users\CSCC Labs\source\repos\CreateProcess\Debug\CreateProcess.exe

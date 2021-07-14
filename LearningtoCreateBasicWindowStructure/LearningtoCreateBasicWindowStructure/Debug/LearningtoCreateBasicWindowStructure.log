@@ -1,0 +1,4 @@
+﻿  LearningtoCreateBasicWindowStructure.cpp
+C:\Users\CSCC Labs\source\repos\LearningtoCreateBasicWindowStructure\LearningtoCreateBasicWindowStructure\LearningtoCreateBasicWindowStructure.cpp(26,35): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\CSCC Labs\source\repos\LearningtoCreateBasicWindowStructure\LearningtoCreateBasicWindowStructure\LearningtoCreateBasicWindowStructure.cpp(31,42): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  LearningtoCreateBasicWindowStructure.vcxproj -> C:\Users\CSCC Labs\source\repos\LearningtoCreateBasicWindowStructure\Debug\LearningtoCreateBasicWindowStructure.exe

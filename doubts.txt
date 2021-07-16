@@ -1,4 +1,4 @@
 1.  Why there are many classes with the same name, except with suffixes such as L, W, Ex, ... (RegisterClassEx, RegisterClassW)?
 2.  In Handler HANDLE OpenProcess(DWORD dwDesiredAccess,BOOL  bInheritHandle,DWORD dwProcessId),
     bInheritHandle should be set false. If it is set true, then, it is said to inherit the process. From where does it inherit and what does it inherit?
-3. 
+3.  UDP is a connectionless transmission. TCP is a connection oriented transmission. What kind of connection is being used here?

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626675949 source:c:\users\cscc labs\desktop\code blocks progs\learning calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
